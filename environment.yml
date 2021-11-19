@@ -1,4 +1,4 @@
-name: transformer
+name: transformer_protonx
 channels:
   - defaults
 dependencies:
